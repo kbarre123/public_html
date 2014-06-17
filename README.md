@@ -1,4 +1,4 @@
-public_html
+Random Web Pages
 ===========
 
-Outward facing files on satelliteOfLove. They're located locally at ~/public_html and can be viewed in the browser by visiting <a href="http://localhost" target="blank">localhost</a> or <a href="http://192.168.0.100" target="blank">192.168.0.100</a> from another machine on the network.
+These are projects in various stages of completion. I mainly just use these to copy/paste when getting started on new projects.
